@@ -1,0 +1,3 @@
+[submodule "Project-Sample"]
+	path = Project-Sample
+	url = https://github.com/venkateshbotte/Project-Sample.git
